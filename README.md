@@ -2,7 +2,7 @@
 
 
 ### Profile Views 
-![](https://komarev.com/ghpvc/?ahmetozsari/)
+![](https://komarev.com/ghpvc/?username=ahmetozsari&color=green)
 
 <!-- **ahmetozsari/ahmetozsari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
